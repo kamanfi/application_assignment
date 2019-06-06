@@ -2,23 +2,14 @@
 
 ## Introduction
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote.
+Our intern Dan has finished working on this killer Movie Quotes App that returns a random movie quote.
 
-Please run `npm install` and then run `node index.js` to start the server.
+Please run `npm install` and then run `node index.js` in your terminal to start the server.
 
-## Specifications
-
-The finished project:
-
-- loads a new fact when you refresh the page.
-- runs with no errors.
-- has the readme updated with how to run this web server.
+Navigate to `http://localhost:3000/` in your web browser to view random movie quotes.
+Refresh your page to get new quotes.
 
 ![working app](app.gif)
-
-## Submission Requirements
-
-Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
 
 ## References
 
